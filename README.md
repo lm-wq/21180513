@@ -4,7 +4,7 @@
 ## Hello! 
 ### Hello! 
 --------------------
-通向[zxy.md](https://github.com/21180513/lm-wq/blob/main/mpb.md)的链接
+通向[zxy.md](https://github.com/lm-wq/21180513/blob/main/mpb.md)的链接
 
 *斜体*
 _斜体_
